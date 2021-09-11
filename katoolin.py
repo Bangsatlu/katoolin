@@ -5,7 +5,7 @@ import os,sys,traceback
 
 
 if os.getuid() != 0:
-	print "Sorry. This script requires sudo privledges"
+	print "maaf. Script ini membutuhkan hak sudo"
 	sys.exit()
 def main():
 	try:
