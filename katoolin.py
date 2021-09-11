@@ -22,7 +22,7 @@ def main():
 
  \033[1;91m+ -- -- +=[ Author: Mr.scriptkiddie004
  \033[1;91m+ -- -- +=[ Team: Indonesia Black Hat Hacker
- \033[1;97m+ -- -- +=[ Website: https://scriptkiddie004.wordpress.com/join/?preview=true
+ \033[1;97m+ -- -- +=[ Website: https://scriptkiddie004.wordpress.com/join/
  \033[1;97m+ -- -- +=[ Recode: Leonsec
  \033[1;97m+ -- -- +=[ 331 Tools
 
