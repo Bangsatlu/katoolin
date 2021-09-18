@@ -21,10 +21,10 @@ def main():
  \__|  \__| \_______|   \____/  \______/  \______/ \__|\__|\__|  \__| V1.0 \033[1;97m
 
 
- \033[1;91m+ -- -- +=[ Author: Mr.scriptkiddie004
- \033[1;91m+ -- -- +=[ Team: Indonesia Black Hat Hacker
- \033[1;97m+ -- -- +=[ Website: https://scriptkiddie004.wordpress.com/join/
- \033[1;97m+ -- -- +=[ Recode: Leonsec
+ \033[1;91m+ -- -- +=[ Author   : Mr.Tiger
+ \033[1;91m+ -- -- +=[ Team     : Army Beast
+ \033[1;97m+ -- -- +=[ Website  : https://linktr.ee/ArmyBeast
+ \033[1;97m+ -- -- +=[ Recode   : Leonsec
  \033[1;97m+ -- -- +=[ 331 Tools
 
 
