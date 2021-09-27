@@ -18,14 +18,12 @@ def main():
  $$  $$<    $$$$$$$ |  \033[1;91mKali linux tools installer\033[1;91m |$$ |$$ |$$ |  $$ |
  \033[1;97m$$ |\$$\  $$  __$$ |  $$ |$$\ $$ |  $$ |$$ |  $$ |$$ |$$ |$$ |  $$ |
  $$ | \$$\ \$$$$$$$ |  \$$$$  |\$$$$$$  |\$$$$$$  |$$ |$$ |$$ |  $$ |
- \__|  \__| \_______|   \____/  \______/  \______/ \__|\__|\__|  \__| V1.0 \033[1;97m
+ \__|  \__| \_______|   \____/  \______/  \______/ \__|\__|\__|  \__| V1.1 \033[1;97m
 
 
- \033[1;91m+ -- -- +=[ Author   : Mr.Tiger
- \033[1;91m+ -- -- +=[ Team     : Army Beast
+ \033[1;91m+ -- -- +=[ Author   : anonymous
+ \033[1;91m+ -- -- +=[ Team     : Army Beast x Evil_Devil_Black_Hat
  \033[1;97m+ -- -- +=[ Website  : https://linktr.ee/ArmyBeast
- \033[1;97m+ -- -- +=[ Recode   : Leonsec
- \033[1;97m+ -- -- +=[ 331 Tools
 
 
 \033[1;91m[W] Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .\033[1;m
